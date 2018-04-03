@@ -14,8 +14,7 @@ To create an application that has the brownie recipe’s ingredients
 and instructions when a user clicks the associated headers.
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+ https://crc15.github.io/cayll_lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
 1. To access elements using jQuery syntax
